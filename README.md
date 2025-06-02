@@ -1,4 +1,3 @@
-Bikin alur nya disini zi
 
 ## 🚀 Alur Penggunaan Aplikasi
 
